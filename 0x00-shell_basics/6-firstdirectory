@@ -1,0 +1,2 @@
+#!/bin/bash
+mldir /tmp/my_first_directory
